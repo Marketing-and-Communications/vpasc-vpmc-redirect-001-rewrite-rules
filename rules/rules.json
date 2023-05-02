@@ -1,4 +1,6 @@
 [
+    "^/(.*) https://ops.tamu.edu/$1 [H=^tamuops.tamu.edu$,R=301,L]",
+
     "^//.* /index.html [R,L]",
     "^(.*)/$ $1/index.html [R,L]",
     "^(((?!\\.).)*)?(/\\?.*)$ $1/index.html [R,L]",
