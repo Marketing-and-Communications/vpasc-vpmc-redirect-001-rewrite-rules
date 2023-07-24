@@ -1,4 +1,8 @@
 [
+    "^/(.*) https://facultyaffairs.tamu.edu/$1 [H=^advance.tamu.edu$,R=301,L]",
+    "^/(.*) https://facultyaffairs.tamu.edu/$1 [H=^dof.tamu.edu$,R=301,L]",
+    "^/(.*) https://facultyaffairs.tamu.edu/elevate-your-impact/faculty-awards-recognition/external-recognition/index.html [H=^facultyawards.tamu.edu$,R=301,L]",
+    "^/(.*) https://facultyaffairs.tamu.edu/immigration-affairs/index.html [H=^ifss.tamu.edu$,R=301,L]",
     "^/(.*) https://ops.tamu.edu/$1 [H=^tamuops.tamu.edu$,R=301,L]",
 
     "^//.* /index.html [R,L]",
