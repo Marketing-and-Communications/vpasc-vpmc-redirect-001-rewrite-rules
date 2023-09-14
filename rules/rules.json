@@ -5,6 +5,7 @@
     "^/(.*) https://facultyaffairs.tamu.edu/immigration-affairs/index.html [H=^ifss.tamu.edu$,R=301,L]",
     "^/(.*) https://facultyaffairs.tamu.edu/immigration-affairs/index.html [H=^isfs.tamu.edu$,R=301,L]",
     "^/(.*) https://ops.tamu.edu/$1 [H=^tamuops.tamu.edu$,R=301,L]",
+    "^/(.*) https://hopelife.tamu.edu/$1 [H=^pvfa.tamu.edu/hopelife$,R=301,L]",
 
     "^//.* /index.html [R,L]",
     "^(.*)/$ $1/index.html [R,L]",
