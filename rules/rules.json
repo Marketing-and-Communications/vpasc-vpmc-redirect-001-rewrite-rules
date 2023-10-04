@@ -27,7 +27,7 @@
     "^/Menu/Communications https://academicaffairs.tamu.edu/index.html/office-of-the-provost/communications-staff.html [H=^provost.tamu.edu$,R=301,L]",
     "^/Menu/News/News-Archive https://academicaffairs.tamu.edu/index.html/news/index.html [H=^provost.tamu.edu$,R=301,L]",
     "^/Menu/News https://academicaffairs.tamu.edu/index.html/news/index.html [H=^provost.tamu.edu$,R=301,L]",
-    "^/(.*) https://academicaffairs.tamu.edu [H=^provost.tamu.edu$,R=301,L]",
+    "^/(.*) https://academicaffairs.tamu.edu/$1 [H=^provost.tamu.edu$,R=301,L]",
     "^/(.*) https://academicaffairs.tamu.edu [H=^aa.tamu.edu$,R=301,L]",
     "^//.* /index.html [R,L]",
     "^(.*)/$ $1/index.html [R,L]",
