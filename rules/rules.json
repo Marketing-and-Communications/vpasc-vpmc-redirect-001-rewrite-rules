@@ -36,7 +36,7 @@
     "^/Student-Achievement https://academicaffairs.tamu.edu/index.html [H=^aa.tamu.edu$,R=301,L]",
     "^/Tradition-of-Excellence-Awards https://academicaffairs.tamu.edu/index.html [H=^aa.tamu.edu$,R=301,L]",
     "^/Resources https://academicaffairs.tamu.edu/resources/index.html [H=^aa.tamu.edu$,R=301,L]",
-    "^/(.*) https://academicaffairs.tamu.edu$1 [H=^aa.tamu.edu$,R=301,L]",
+    "^/(.*) https://academicaffairs.tamu.edu/$1 [H=^aa.tamu.edu$,R=301,L]",
     "^//.* /index.html [R,L]",
     "^(.*)/$ $1/index.html [R,L]",
     "^(((?!\\.).)*)?(/\\?.*)$ $1/index.html [R,L]",
