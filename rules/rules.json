@@ -6,6 +6,8 @@
     "^/(.*) https://facultyaffairs.tamu.edu/immigration-affairs/index.html [H=^isfs.tamu.edu$,R=301,L]",
     "^/(.*) https://ops.tamu.edu/$1 [H=^tamuops.tamu.edu$,R=301,L]",
     "^/(.*) https://pvfa.tamu.edu/hopelife [H=^hopelife.tamu.edu$,R=301,L]",
+    "^/(.*) https://www.tamug.edu/loer [H=^loer.tamug.edu$,R=301,L]",
+    "^/(.*) https://www.tamug.edu/corps [H=^texasmaritime.tamu.edu$,R=301,L]",
     "^/Draft-Schedule-Fall-2020 https://academicaffairs.tamu.edu/index.html [H=^provost.tamu.edu$,R=301,L]",
     "^/T3-Texas-A-M-Triads-for-Transformation /index.html [H=^provost.tamu.edu$,R=301,L]",
     "^/X-Grants /index.html [H=^provost.tamu.edu$,R=301,L]",
