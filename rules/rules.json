@@ -9,6 +9,7 @@
     "^/(.*) https://admissions.tamu.edu/aggiebound [H=^aggiebound.tamu.edu$,R=301,L]",
     "^/(.*) https://www.tamug.edu/loer [H=^loer.tamug.edu$,R=301,L]",
     "^/(.*) https://www.tamug.edu/corps [H=^texasmaritime.tamug.edu$,R=301,L]",
+    "^/(.*) https://uhs.tamu.edu/prevention-population-health/coronavirus.html [H=^covid.tamu.edu$,R=301,L]",
     "^/About/Contact https://academicaffairs.tamu.edu/index.html [H=^aa.tamu.edu$,R=301,L]",
     "^/About https://provost.tamu.edu/index.html [H=^aa.tamu.edu$,R=301,L]",
     "^/Tradition-of-Excellence-Awards https://provost.tamu.edu/academic-affairs/index.html [H=^aa.tamu.edu$,R=301,L]",
@@ -70,9 +71,10 @@
     "^/reporting-units/accreditation/program-accreditation.html https://provost.tamu.edu/academic-affairs/accreditation/program-accreditation.html [H=^academicaffairs.tamu.edu$,R=301,L]",
     "^/reporting-units/accreditation/index.html https://provost.tamu.edu/academic-affairs/accreditation/index.html [H=^academicaffairs.tamu.edu$,R=301,L]",
     "^/(.*) https://provost.tamu.edu/$1 [H=^academicaffairs.tamu.edu$,R=301,L]",
+    "^/(.*) https://cfn.tamu.edu/$1 [H=^christianfaculty.tamu.edu$,R=301,L]",
     "^//.* /index.html [R,L]",
     "^(.*)/$ $1/index.html [R,L]",
     "^(((?!\\.).)*)?(/\\?.*)$ $1/index.html [R,L]",
-    "^(((?!\\.).)*)$ $1/index.html [R,L]",
-    "^/(.*) https://cfn.tamu.edu/$1 [H=^christianfaculty.tamu.edu$,R=301,L]"
+    "^(((?!\\.).)*)$ $1/index.html [R,L]"
+
 ]
