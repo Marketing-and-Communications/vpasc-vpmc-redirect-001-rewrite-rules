@@ -96,6 +96,7 @@
     "^/studentsupport/* https://uhs.tamu.edu/mental-health/student-support.html [H=^caps.tamu.edu$,R=301,L]",
     "^/(.*) https://uhs.tamu.edu/$1 [H=^caps.tamu.edu$,R=301,L]",
     "^/(.*) https://uhs.tamu.edu/$1 [H=^shs.tamu.edu$,R=301,L]",
+    "^/(.*) https://artsci.tamu.edu/atmos-science/index.html [H=^atmo.tamu.edu,R=301,L]",
     "^//.* /index.html [R,L]",
     "^(.*)/$ $1/index.html [R,L]",
     "^(((?!\\.).)*)?(/\\?.*)$ $1/index.html [R,L]",
