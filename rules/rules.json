@@ -129,9 +129,11 @@
     "^/people/staff/index.html?$ https://artsci.tamu.edu/atmos-science/contact/staff.html#All [H=^atmo.tamu.edu,R=301,L]",
     "^/people/profiles/staff/saravananr.html https://artsci.tamu.edu/atmos-science/contact/profiles/r-saravanan.html [H=^atmo.tamu.edu,R=301,L]",
     "^/(.*) https://artsci.tamu.edu/atmos-science/index.html [H=^atmo.tamu.edu,R=301,L]",
+    "^/(.*) https://aggiemap.tamu.edu/ [H=^aggiemaps.tamu.edu$,R=301,L]",
+    "^/(.*) https://aggiemap.tamu.edu/ [H=^campusmap.tamu.edu.tamu.edu$,R=301,L]",
+    "^/(.*) https://aggiemap.tamu.edu/ [H=^campusmaps.tamu.edu.tamu.edu$,R=301,L]",
     "^//.* /index.html [R,L]",
     "^(.*)/$ $1/index.html [R,L]",
     "^(((?!\\.).)*)?(/\\?.*)$ $1/index.html [R,L]",
     "^(((?!\\.).)*)$ $1/index.html [R,L]"
-
 ]
