@@ -310,6 +310,8 @@
     "^/research/human-environment/?$ https://artsci.tamu.edu/geography/research/human-environment-geography.html [H=^geography.tamu.edu,R=301,L]",
     "^/labs-services/?$ https://artsci.tamu.edu/geography/resources/labs-and-services.html [H=^geography.tamu.edu,R=301,L]",
     "^/(.*) https://artsci.tamu.edu/geography/index.html [H=^geography.tamu.edu,R=301,L]",
+    "^/(.*) https://artsci.tamu.edu/chemistry/index.html [H=^chem.tamu.edu,R=301,L]",
+    "^/(.*) https://artsci.tamu.edu/chemistry/index.html [H=^www.chem.tamu.edu,R=301,L]",
     "^//.* /index.html [R,L]",
     "^(.*)/$ $1/index.html [R,L]",
     "^(((?!\\.).)*)?(/\\?.*)$ $1/index.html [R,L]",
