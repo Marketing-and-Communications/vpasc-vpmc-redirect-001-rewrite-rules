@@ -223,7 +223,7 @@
     "^/sfsn/?$ https://artsci.tamu.edu/statistics/resources/sfsn/index.html [H=^stat.tamu.edu,R=301,L]",
     "^/hiring/?$ https://artsci.tamu.edu/statistics/about/hiring.html [H=^stat.tamu.edu,R=301,L]",
     "^/(.*) https://artsci.tamu.edu/statistics/index.html [H=^stat.tamu.edu,R=301,L]",
-    "^/(.*) https://artsci.tamu.edu/statistics/index.html [H=^stat.tamu.edu,R=301,L]",
+    "^/(.*) https://artsci.tamu.edu/philosophy/index.html [H=^philosophy.tamu.edu,R=301,L]",
     "^//.* /index.html [R,L]",
     "^(.*)/$ $1/index.html [R,L]",
     "^(((?!\\.).)*)?(/\\?.*)$ $1/index.html [R,L]",
