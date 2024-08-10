@@ -226,6 +226,8 @@
     "^/(.*) https://artsci.tamu.edu/philosophy/index.html [H=^philosophy.tamu.edu,R=301,L]",
     "^/(.*) https://artsci.tamu.edu/english/index.html [H=^english.tamu.edu,R=301,L]",
     "^/(.*) https://artsci.tamu.edu/economics/index.html [H=^econ.tamu.edu,R=301,L]",
+    "^/(.*) https://artsci.tamu.edu/comm-journalism/index.html [H=^cmjr.tamu.edu,R=301,L]",
+    "^/(.*) https://artsci.tamu.edu/comm-journalism/index.html [H=^comm.tamu.edu,R=301,L]",
     "^//.* /index.html [R,L]",
     "^(.*)/$ $1/index.html [R,L]",
     "^(((?!\\.).)*)?(/\\?.*)$ $1/index.html [R,L]",
