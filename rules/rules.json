@@ -265,6 +265,7 @@
     "^/seminar-schedule/?$ https://artsci.tamu.edu/geology-geophysics/resources/seminar-schedule.html [H=^geogeo.tamu.edu,R=301,L]",
     "^/facilities/?$ https://artsci.tamu.edu/geology-geophysics/resources/facilities.html [H=^geogeo.tamu.edu,R=301,L]",
     "^/(.*) https://artsci.tamu.edu/geology-geophysics/index.html [H=^geogeo.tamu.edu,R=301,L]",
+    "^/(.*) https://artsci.tamu.edu/geology-geophysics/index.html [H=^geoweb.tamu.edu,R=301,L]",
     "^/about/about-geography/?$ https://artsci.tamu.edu/geography/about/index.html [H=^geography.tamu.edu,R=301,L]",
     "^/about/leadership-vision/?$ https://artsci.tamu.edu/geography/about/leadership-and-vision.html [H=^geography.tamu.edu,R=301,L]",
     "^/about/contact-us/?$ https://artsci.tamu.edu/geography/contact/index.html [H=^geography.tamu.edu,R=301,L]",
