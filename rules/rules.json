@@ -11,7 +11,7 @@
     "^/(.*) https://www.tamug.edu/corps [H=^texasmaritime.tamug.edu$,R=301,L]",
     "^/(.*) https://uhs.tamu.edu/prevention-population-health/coronavirus.html [H=^covid.tamu.edu$,R=301,L]",
     "^/(.*) https://cfn.tamu.edu/$1 [H=^christianfaculty.tamu.edu$,R=301,L]",
-    "^/(.*) https://trademarks.tamu.edu.tamu.edu/$1 [H=^sponsorships.tamu.edu$,R=301,L]",
+    "^/(.*) https://trademarks.tamu.edu/$1 [H=^sponsorships.tamu.edu$,R=301,L]",
     "^/medical-records/* https://uhs.tamu.edu/medical/medical-records.html [H=^shs.tamu.edu$,R=301,L]",
     "^/charges/* https://uhs.tamu.edu/appointments/charges.html [H=^shs.tamu.edu$,R=301,L]",
     "^/appointments/* https://uhs.tamu.edu/appointments/index.html [H=^shs.tamu.edu$,R=301,L]",
