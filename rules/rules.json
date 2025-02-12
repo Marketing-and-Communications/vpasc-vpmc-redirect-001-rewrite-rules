@@ -305,6 +305,7 @@
     "^/rgroup/wooley/?$ https://artsci.tamu.edu/chemistry/research/groups/wooley/index.html [H=^www.chem.tamu.edu,R=301,L]",
     "^/rgroup/zhou/?$ https://artsci.tamu.edu/chemistry/research/groups/zhou/index.html [H=^www.chem.tamu.edu,R=301,L]",
     "^/giving/?$ https://artsci.tamu.edu/chemistry/about/giving.html [H=^www.chem.tamu.edu,R=301,L]",
+    "^/(.*) https://calendar.galveston.tamu.edu/ [H=^calendar.tamug.edu,R=301,L]",
     "^/(.*) https://artsci.tamu.edu/chemistry/index.html [H=^www.chem.tamu.edu,R=301,L]",
     "^/(.*) https://artsci.tamu.edu/chemistry/index.html [H=^chem.tamu.edu,R=301,L]",
     "^//.* /index.html [R,L]",
