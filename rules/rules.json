@@ -240,6 +240,8 @@
     "^/graduate-student-resources/international-students/?$ https://artsci.tamu.edu/geography/academics/graduate/international-students.html [H=^geography.tamu.edu,R=301,L]",
     "^/graduate-student-resources/mgsc/?$ https://artsci.tamu.edu/geography/academics/graduate/master-of-geoscience.html [H=^geography.tamu.edu,R=301,L]",
     "^/graduate-student-resources/strong-applications/?$ https://artsci.tamu.edu/geography/academics/strong-application.html [H=^geography.tamu.edu,R=301,L]",
+    "^/graduate-student-resources/graduate-certificate-programs/index.html https://artsci.tamu.edu/geography/academics/graduate/gis-certificate/index.html [H=^geography.tamu.edu,R=301,L]",
+    "^/graduate-student-resources/graduate-certificate-programs/?$ https://artsci.tamu.edu/geography/academics/graduate/gis-certificate/index.html [H=^geography.tamu.edu,R=301,L]",
     "^/people/faculty/?$ https://artsci.tamu.edu/geography/contact/profiles/index.html [H=^geography.tamu.edu,R=301,L]",
     "^/people/emeritus-faculty/?$ https://artsci.tamu.edu/geography/contact/emeritus-faculty.html [H=^geography.tamu.edu,R=301,L]",
     "^/people/post-docs/?$ https://artsci.tamu.edu/geography/contact/post-docs.html [H=^geography.tamu.edu,R=301,L]",
