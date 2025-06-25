@@ -311,8 +311,6 @@
     "^/(.*) https://artsci.tamu.edu/geology-geophysics/index.html [H=^stableisotope.tamu.edu,R=301,L]",
     "^/(.*) https://artsci.tamu.edu/chemistry/index.html [H=^www.chem.tamu.edu,R=301,L]",
     "^/(.*) https://artsci.tamu.edu/chemistry/index.html [H=^chem.tamu.edu,R=301,L]",
-    "^/(.*) https://ttdn.tamus.edu/index.html [H=^ttvn.tamus.edu,R=301,L]",
-    "^/(.*) https://ttdn.tamus.edu/index.html [H=^www.ttvn.tamus.edu,R=301,L]",
     "^//.* /index.html [R,L]",
     "^(.*)/$ $1/index.html [R,L]",
     "^(((?!\\.).)*)?(/\\?.*)$ $1/index.html [R,L]",
