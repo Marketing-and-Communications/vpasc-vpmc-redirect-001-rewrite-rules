@@ -1,5 +1,5 @@
 [
-        "^/index.html https://artsci.tamu.edu/mathematics/index.html [H=^www.math.tamu.edu,R=301,L]",
+    "^/index.html https://artsci.tamu.edu/mathematics/index.html [H=^www.math.tamu.edu,R=301,L]",
     "^/welcome/ https://artsci.tamu.edu/mathematics/about/index.html [H=^www.math.tamu.edu,R=301,L]",
     "^/hiring/ https://artsci.tamu.edu/mathematics/about/hiring/index.html [H=^www.math.tamu.edu,R=301,L]",
     "^/contact/ https://artsci.tamu.edu/mathematics/contact/index.html [H=^www.math.tamu.edu,R=301,L]",
