@@ -103,6 +103,7 @@
     "^/undergraduate/honors/ https://artsci.tamu.edu/mathematics/academics/undergraduate/honors/index.html [H=^www.math.tamu.edu$,R=301,L]",
     "^/undergraduate/honors/honorsmajor.html https://artsci.tamu.edu/mathematics/academics/undergraduate/honors/honors-major.html [H=^www.math.tamu.edu$,R=301,L]",
     "^/undergraduate/honors/honorsminor.html https://artsci.tamu.edu/mathematics/academics/undergraduate/honors/honors-minor.html [H=^www.math.tamu.edu$,R=301,L]",
+    "^/courses/prereqs/ https://artsci.tamu.edu/mathematics/academics/courses/prereqs.html [H=^www.math.tamu.edu$,R=301,L]",
     "^/courses/math131/ https://artsci.tamu.edu/mathematics/academics/courses/descriptions/math131.html [H=^www.math.tamu.edu$,R=301,L]",
     "^/courses/math135/ https://artsci.tamu.edu/mathematics/academics/courses/descriptions/math135.html [H=^www.math.tamu.edu$,R=301,L]",
     "^/courses/math136/ https://artsci.tamu.edu/mathematics/academics/courses/descriptions/math136.html [H=^www.math.tamu.edu$,R=301,L]",
