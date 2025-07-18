@@ -249,6 +249,7 @@
     "^/courses/math689/?$ https://artsci.tamu.edu/mathematics/academics/courses/descriptions/math689.html [H=^www.math.tamu.edu$,R=301,L]",
     "^/courses/math691/?$ https://artsci.tamu.edu/mathematics/academics/courses/descriptions/math691.html [H=^www.math.tamu.edu$,R=301,L]",
     "^/courses/math696/?$ https://artsci.tamu.edu/mathematics/academics/courses/descriptions/math696.html [H=^www.math.tamu.edu$,R=301,L]",
+    "^/conferences/functional_analysis/sumirfas.html$ https://www2.math.tamu.edu/conferences/functional_analysis/sumirfas.html [H=^www.math.tamu.edu$,R=301,L]",
     "^/conferences/functional_analysis/24sumirfas.html$ https://www2.math.tamu.edu/conferences/functional_analysis/24sumirfas.html [H=^www.math.tamu.edu$,R=301,L]",
     "^/conferences/functional_analysis/25program_sumirfas.html$ https://www2.math.tamu.edu/conferences/functional_analysis/25program_sumirfas.html [H=^www.math.tamu.edu$,R=301,L]",
     "^/conferences/functional_analysis/about.html$ https://www2.math.tamu.edu/conferences/functional_analysis/about.html [H=^www.math.tamu.edu$,R=301,L]",
