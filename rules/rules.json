@@ -1,5 +1,4 @@
 [
-    "^/index.html$ https://artsci.tamu.edu/mathematics/index.html [H=^www.math.tamu.edu$,R=301,L]",
     "^/welcome/?$ https://artsci.tamu.edu/mathematics/about/index.html [H=^www.math.tamu.edu$,R=301,L]",
     "^/hiring/?$ https://artsci.tamu.edu/mathematics/about/hiring/index.html [H=^www.math.tamu.edu$,R=301,L]",
     "^/contact/?$ https://artsci.tamu.edu/mathematics/contact/index.html [H=^www.math.tamu.edu$,R=301,L]",
@@ -408,6 +407,7 @@
     "^/~vinces/?$ https://people.tamu.edu/~vinces/ [H=^www.math.tamu.edu$,R=301,L]",
     "^/~yasskin/?$ https://people.tamu.edu/~yasskin/ [H=^www.math.tamu.edu$,R=301,L]",
     "^/~yvorobet/?$ https://people.tamu.edu/~yvorobets/ [H=^www.math.tamu.edu$,R=301,L]",
+    "^/index.html$ https://artsci.tamu.edu/mathematics/index.html [H=^www.math.tamu.edu$,R=301,L]",
     "^/(.*) https://artsci.tamu.edu/mathematics/$1 [H=^www.math.tamu.edu$,R=301,L]",
     "^/(.*) https://facultyaffairs.tamu.edu/$1 [H=^advance.tamu.edu$,R=301,L]",
     "^/(.*) https://facultyaffairs.tamu.edu/$1 [H=^dof.tamu.edu$,R=301,L]",
