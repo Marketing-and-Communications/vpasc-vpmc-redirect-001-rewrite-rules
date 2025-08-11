@@ -676,6 +676,7 @@
     "^/faculty-openings/?$ https://artsci.tamu.edu/chemistry/about/faculty-openings.html [H=^www.chem.tamu.edu,R=301,L]",
     "^/contact/?$ https://artsci.tamu.edu/chemistry/contact/index.html [H=^www.chem.tamu.edu,R=301,L]",
     "^/graduate/?$ https://artsci.tamu.edu/chemistry/academics/graduate/index.html [H=^www.chem.tamu.edu,R=301,L]",
+    "^/graduate/?$ https://artsci.tamu.edu/english/academics/graduate/index.html [H=^english.tamu.edu,R=301,L]",
     "^/undergraduate/?$ https://artsci.tamu.edu/chemistry/academics/undergraduate/index.html [H=^www.chem.tamu.edu,R=301,L]",
     "^/undergraduate/honors-program/?$ https://artsci.tamu.edu/chemistry/academics/undergraduate/honors-program.html [H=^www.chem.tamu.edu,R=301,L]",
     "^/reu/?$ https://artsci.tamu.edu/chemistry/academics/reu.html [H=^www.chem.tamu.edu,R=301,L]",
