@@ -1,4 +1,6 @@
 [
+    "^/(.*) https://honors.tamu.edu/about/honors-programs-directory.html [H=^honorsprograms.tamu.edu$,R=301,L]",
+    "^/(.*) https://ugr.tamu.edu/index.html [H=^undergraduateresearch.tamu.edu$,R=301,L]",
     "^/welcome/?$ https://artsci.tamu.edu/mathematics/about/index.html [H=^www.math.tamu.edu$,R=301,L]",
     "^/hiring/?$ https://artsci.tamu.edu/mathematics/about/hiring/index.html [H=^www.math.tamu.edu$,R=301,L]",
     "^/contact/?$ https://artsci.tamu.edu/mathematics/contact/index.html [H=^www.math.tamu.edu$,R=301,L]",
