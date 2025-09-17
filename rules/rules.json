@@ -1,4 +1,6 @@
-[
+[    
+    "^/home/digital-learning-(canvas-cms).html$ https://lms.tamu.edu [H=^cte.tamu.edu$,R=301,L]",
+    "^/home/digital-learning-(canvas-cms)/?$ https://lms.tamu.edu [H=^cte.tamu.edu$,R=301,L]",
     "^/(.*) https://honors.tamu.edu/about/honors-programs-directory.html [H=^honorsprograms.tamu.edu$,R=301,L]",
     "^/(.*) https://ugr.tamu.edu/index.html [H=^undergraduateresearch.tamu.edu$,R=301,L]",
     "^/welcome/?$ https://artsci.tamu.edu/mathematics/about/index.html [H=^www.math.tamu.edu$,R=301,L]",
