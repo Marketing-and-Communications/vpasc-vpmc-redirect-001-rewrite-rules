@@ -1,4 +1,5 @@
 [
+    "^/(.*) https://artsci.tamu.edu/global-lang-cultures/index.html [H=^glac.tamu.edu$,R=301,L]",
     "^/home/digital-learning-canvas-cms.html$ https://lms.tamu.edu/ [H=^cte.tamu.edu$,R=301,L]",
     "^/home/digital-learning-canvas-cms/?$ https://lms.tamu.edu/ [H=^cte.tamu.edu$,R=301,L]",
     "^/(.*) https://honors.tamu.edu/about/honors-programs-directory.html [H=^honorsprograms.tamu.edu$,R=301,L]",
