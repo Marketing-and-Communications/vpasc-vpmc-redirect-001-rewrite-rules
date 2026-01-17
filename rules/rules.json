@@ -1,4 +1,9 @@
 [
+    "^/(.*) https://artsci.tamu.edu/global-lang-cultures/index.html [H=^glac.tamu.edu$,R=301,L]",
+    "^/home/digital-learning-canvas-cms.html$ https://lms.tamu.edu/ [H=^cte.tamu.edu$,R=301,L]",
+    "^/home/digital-learning-canvas-cms/?$ https://lms.tamu.edu/ [H=^cte.tamu.edu$,R=301,L]",
+    "^/(.*) https://honors.tamu.edu/about/honors-programs-directory.html [H=^honorsprograms.tamu.edu$,R=301,L]",
+    "^/(.*) https://ugr.tamu.edu/index.html [H=^undergraduateresearch.tamu.edu$,R=301,L]",
     "^/welcome/?$ https://artsci.tamu.edu/mathematics/about/index.html [H=^www.math.tamu.edu$,R=301,L]",
     "^/hiring/?$ https://artsci.tamu.edu/mathematics/about/hiring/index.html [H=^www.math.tamu.edu$,R=301,L]",
     "^/contact/?$ https://artsci.tamu.edu/mathematics/contact/index.html [H=^www.math.tamu.edu$,R=301,L]",
@@ -482,6 +487,7 @@
     "^/(.*) https://aggiemap.tamu.edu/ [H=^aggiemaps.tamu.edu$,R=301,L]",
     "^/(.*) https://aggiemap.tamu.edu/ [H=^campusmap.tamu.edu$,R=301,L]",
     "^/(.*) https://aggiemap.tamu.edu/ [H=^campusmaps.tamu.edu$,R=301,L]",
+    "^/graduate/?$ https://artsci.tamu.edu/english/academics/graduate/index.html [H=^english.tamu.edu,R=301,L]",
     "^/about/about-the-department/?$ https://artsci.tamu.edu/oceanography/about/index.html [H=^oceanography.tamu.edu,R=301,L]",
     "^/about/what-is-oceanography/?$ https://artsci.tamu.edu/oceanography/about/what-is-oceanography.html [H=^oceanography.tamu.edu,R=301,L]",
     "^/about/leadership-vision/?$ https://artsci.tamu.edu/oceanography/about/leadership-and-vision.html [H=^oceanography.tamu.edu,R=301,L]",
