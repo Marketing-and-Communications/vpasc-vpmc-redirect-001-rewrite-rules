@@ -11,7 +11,7 @@
     "^/national-fellowships/faqs/?$ https://natlfellows.tamu.edu/faq.html [H=^launch.tamu.edu$,R=301,L]",
     "^/national-fellowships/fellowship-opportunities/?$ https://natlfellows.tamu.edu/about.html [H=^launch.tamu.edu$,R=301,L]",
     "^/national-fellowships?$ http://natlfellows.tamu.edu/index.html [H=^launch.tamu.edu$,R=301,L]",
-    "^/undergraduate-research/?$ https://ugr.tamu.edu/ [H=^launch.tamu.edu$,R=301,L]",
+    "^/undergraduate-research/* https://ugr.tamu.edu/ [H=^launch.tamu.edu$,R=301,L]",
     "^/(.*) https://artsci.tamu.edu/global-lang-cultures/index.html [H=^glac.tamu.edu$,R=301,L]",
     "^/home/digital-learning-canvas-cms.html$ https://lms.tamu.edu/ [H=^cte.tamu.edu$,R=301,L]",
     "^/home/digital-learning-canvas-cms/?$ https://lms.tamu.edu/ [H=^cte.tamu.edu$,R=301,L]",
