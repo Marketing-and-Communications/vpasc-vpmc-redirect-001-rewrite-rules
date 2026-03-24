@@ -1,4 +1,8 @@
 [
+    "^/about/index.html$ https://pvfa.tamu.edu/institutes/vpi/about-us/ [H=^vpi.tamu.edu$,R=301,L]",
+    "^/industry/index.html$ https://pvfa.tamu.edu/institutes/vpi/industry/ [H=^vpi.tamu.edu$,R=301,L]",
+    "^/news/index.html$ https://pvfa.tamu.edu/news/?s=vpi [H=^vpi.tamu.edu$,R=301,L]",
+    "^/give/index.html$ https://pvfa.tamu.edu/institutes/vpi/how-to-give/ [H=^vpi.tamu.edu$,R=301,L]",
     "^/about/index.html$ https://artsci.tamu.edu/geosonline/about-us/index.html [H=^geosonline.tamu.edu$,R=301,L]",
     "^/admissions/certificate-admissions/index.html$ https://artsci.tamu.edu/geosonline/prospective-students/graduate-certificates.html [H=^geosonline.tamu.edu$,R=301,L]",
     "^/admissions/how%20to%20apply/index.html$ https://artsci.tamu.edu/geosonline/prospective-students/index.html [H=^geosonline.tamu.edu$,R=301,L]",
@@ -784,6 +788,7 @@
     "^/(.*) https://artsci.tamu.edu/chemistry/index.html [H=^www.chem.tamu.edu,R=301,L]",
     "^/(.*) https://artsci.tamu.edu/chemistry/index.html [H=^chem.tamu.edu,R=301,L]",
     "^/(.*) https://artsci.tamu.edu/geosonline/index.html [H=^geosonline.tamu.edu$,R=301,L]",
+    "^/(.*) https://pvfa.tamu.edu/institutes/vpi [H=^vpi.tamu.edu$,R=301,L]",
     "^/(.*) https://new.dineoncampus.com/tamu [H=^dining.tamu.edu,R=301,L]",
     "^//.* /index.html [R,L]",
     "^(.*)/$ $1/index.html [R,L]",
