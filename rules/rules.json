@@ -790,6 +790,7 @@
     "^/(.*) https://artsci.tamu.edu/geosonline/index.html [H=^geosonline.tamu.edu$,R=301,L]",
     "^/(.*) https://pvfa.tamu.edu/institutes/vpi [H=^vpi.tamu.edu$,R=301,L]",
     "^/(.*) https://new.dineoncampus.com/tamu [H=^dining.tamu.edu,R=301,L]",
+    "^/(.*) https://itaccessibility.tamu.edu/ [H=^accessibility.tamu.edu,R=302,L]",
     "^//.* /index.html [R,L]",
     "^(.*)/$ $1/index.html [R,L]",
     "^(((?!\\.).)*)?(/\\?.*)$ $1/index.html [R,L]",
