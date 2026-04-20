@@ -1,5 +1,6 @@
 [
-    "^/this-year/?.* https://facultyaffairs.tamu.edu/ttlc/index.html [H=^ttlc.tamu.edu$,R=301,L]",
+    "^/this-year/?$ https://facultyaffairs.tamu.edu/ttlc/index.html [H=^ttlc.tamu.edu$,R=301,L]",
+    "^/this-year$ https://facultyaffairs.tamu.edu/ttlc/index.html [H=^ttlc.tamu.edu$,R=301,L]",
     "^/about/?.* https://pvfa.tamu.edu/institutes/vpi/about-us/ [H=^vpi.tamu.edu$,R=301,L]",
     "^/industry/?.* https://pvfa.tamu.edu/institutes/vpi/industry/ [H=^vpi.tamu.edu$,R=301,L]",
     "^/news/?.* https://pvfa.tamu.edu/news/?s=vpi [H=^vpi.tamu.edu$,R=301,L]",
