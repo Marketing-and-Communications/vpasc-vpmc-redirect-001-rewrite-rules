@@ -1,7 +1,7 @@
 [
-    "^/(.*) https://service.tamu.edu/TDClient/45/Portal/KB/?CategoryID=209 [H=^orgdev.tamu.edu,R=301,L]",
-    "^/(.*) https://service.tamu.edu/TDClient/45/Portal/KB/?CategoryID=209 [H=^eodinfo.tamu.edu,R=301,L]",
-    "^/(.*) https://service.tamu.edu/TDClient/45/Portal/KB/?CategoryID=209 [H=^learnanddevelop.tamu.edu,R=301,L]",
+    "^/(.*) https://service.tamu.edu/TDClient/45/Portal/KB/?CategoryID=209 [H=^orgdev.tamu.edu$,R=301,L]",
+    "^/(.*) https://service.tamu.edu/TDClient/45/Portal/KB/?CategoryID=209 [H=^eodinfo.tamu.edu$,R=301,L]",
+    "^/(.*) https://service.tamu.edu/TDClient/45/Portal/KB/?CategoryID=209 [H=^learnanddevelop.tamu.edu$,R=301,L]",
     "^/this-year/?.* https://facultyaffairs.tamu.edu/ttlc/index.html [H=^ttlc.tamu.edu$,R=301,L]",
     "^/about/?.* https://pvfa.tamu.edu/institutes/vpi/about-us/ [H=^vpi.tamu.edu$,R=301,L]",
     "^/industry/?.* https://pvfa.tamu.edu/institutes/vpi/industry/ [H=^vpi.tamu.edu$,R=301,L]",
