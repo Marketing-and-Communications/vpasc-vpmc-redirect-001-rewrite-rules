@@ -1,4 +1,6 @@
 [
+    "^/(.*) https://aggie.tamu.edu/ [H=^aggieonestop.tamu.edu$,R=301,L]",
+    "^/(.*) https://aggie.tamu.edu/ [H=^onestop.tamu.edu$,R=301,L]",
     "^/(.*) https://service.tamu.edu/TDClient/45/Portal/KB/?CategoryID=209 [H=^orgdev.tamu.edu$,R=301,L]",
     "^/(.*) https://service.tamu.edu/TDClient/45/Portal/KB/?CategoryID=209 [H=^eodinfo.tamu.edu$,R=301,L]",
     "^/(.*) https://service.tamu.edu/TDClient/45/Portal/KB/?CategoryID=209 [H=^learnanddevelop.tamu.edu$,R=301,L]",
