@@ -54,7 +54,7 @@
     "^/resources/vpat_vendor.html$ https://accessibility.tamu.edu/how-to/procurement/vendor-documentation.html [H=^itaccessibility.tamu.edu$,R=301,L]",
     "^/tools/video_and_multimedia.html$ https://accessibility.tamu.edu/how-to/video-and-audio/index.html [H=^itaccessibility.tamu.edu$,R=301,L]",
     "^/tools/web_accessibility_testing.html$ https://accessibility.tamu.edu/testing-and-monitoring/web-accessibility-testing-tools.html [H=^itaccessibility.tamu.edu$,R=301,L]",
-    "^/(.*) https://accessibility.tamu.edu/index.html [H=^itaccessibility.tamu.edu$,R=301,L]",
+    "^/?.*$ https://accessibility.tamu.edu/index.html [H=^itaccessibility.tamu.edu$,R=301,L]",
     "^/(.*) https://aggie.tamu.edu/index.html [H=^aggieonestop.tamu.edu$,R=301,L]",
     "^/(.*) https://aggie.tamu.edu/index.html [H=^onestop.tamu.edu$,R=301,L]",
     "^/(.*) https://service.tamu.edu/TDClient/45/Portal/KB/?CategoryID=209 [H=^orgdev.tamu.edu$,R=301,L]",
