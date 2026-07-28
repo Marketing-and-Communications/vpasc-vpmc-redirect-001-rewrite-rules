@@ -855,7 +855,7 @@
     "^/(.*) https://artsci.tamu.edu/geosonline/index.html [H=^geosonline.tamu.edu$,R=301,L]",
     "^/(.*) https://pvfa.tamu.edu/institutes/vpi [H=^vpi.tamu.edu$,R=301,L]",
     "^/(.*) https://new.dineoncampus.com/tamu [H=^dining.tamu.edu,R=301,L]",
-    "^/(.*) https://ehs.tamu.edu/environmental-management/semc/committee-subcommittees.html [H=^semc.tamu.edu,R=301,L]",
+    "^/(.*) https://ehs.tamu.edu/environmental-management/semc/index.html [H=^semc.tamu.edu,R=301,L]",
     "^//.* /index.html [R,L]",
     "^(.*)/$ $1/index.html [R,L]",
     "^(((?!\\.).)*)?(/\\?.*)$ $1/index.html [R,L]",
