@@ -1,4 +1,5 @@
 [
+    "^/statistics/resources/consulting-collaboration-center.html$ https://statconsulting.artsci.tamu.edu/index.html [H=^artsci.tamu.edu$,R=301,L]",
     "^/about/accessibility_first.html$ https://accessibility.tamu.edu/foundations/impact.html [H=^itaccessibility.tamu.edu$,R=301,L]",
     "^/about/accessibility_innovator.html$ https://accessibility.tamu.edu/foundations/training/accessibility-innovator-network.html [H=^itaccessibility.tamu.edu$,R=301,L]",
     "^/about/accessibility_services.html$ https://accessibility.tamu.edu/get-help/index.html [H=^itaccessibility.tamu.edu$,R=301,L]",
