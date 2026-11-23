@@ -147,7 +147,7 @@ Resources:
       Properties:
         CodeUri: rewrite/
         Role: !GetAtt LambdaEdgeFunctionRole.Arn
-        Runtime: nodejs16.x
+        Runtime: nodejs22.x
         Handler: index.handler
         Timeout: 10
         AutoPublishAlias: live 
@@ -156,7 +156,7 @@ Resources:
       Properties:
         CodeUri: security/
         Role: !GetAtt LambdaEdgeFunctionRole.Arn
-        Runtime: nodejs16.x
+        Runtime: nodejs22.x
         Handler: index.handler
         Timeout: 5
         AutoPublishAlias: live
